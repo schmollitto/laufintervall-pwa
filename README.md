@@ -1,2 +1,0 @@
-# laufintervall-pwa
-Laufintervall
